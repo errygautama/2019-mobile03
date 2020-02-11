@@ -69,8 +69,4 @@
 		android:fontFamily="@font/montserrat_light"
 		/>
 
-
-
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
